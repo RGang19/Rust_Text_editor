@@ -1,0 +1,11 @@
+[package]
+name = "Text_Editor"
+version = "0.1.0"
+authors = ["Rahul Gangwar <rahulgangwar4567@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+termion = "1"
+unicode-segmentation = "1.9.0"
